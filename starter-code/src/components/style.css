@@ -1,0 +1,16 @@
+.search-layout div {
+  margin: 20px;
+}
+
+.search input {
+  width: 80%;
+  height: 30px;
+}
+
+.div-table {
+  display: grid;
+}
+
+td {
+  padding: 20px;
+}
